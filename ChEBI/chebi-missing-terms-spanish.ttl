@@ -1,0 +1,377 @@
+@prefix :      <http://purl.obolibrary.org/obo/chebi.owl#> .
+@prefix chebi: <http://purl.obolibrary.org/obo/chebi/> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix chebi1: <http://purl.obolibrary.org/obo/chebi#2> .
+@prefix chebi2: <http://purl.obolibrary.org/obo/chebi#> .
+@prefix chebi3: <http://purl.obolibrary.org/obo/chebi#3> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix chebi4: <http://purl.obolibrary.org/obo/chebi#1> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/5>
+        a                           owl:Class ;
+        rdfs:label                  "Pyroxasulfone" ;
+        oboInOwl:hasRelatedSynonym  "3-[[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)pyrazol-4-yl]methylsulfonyl]-5,5-dimethyl-4H-1,2-oxazole" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/78>
+        a           owl:Class ;
+        rdfs:label  "mata babosas y caracoles" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/31>
+        a           owl:Class ;
+        rdfs:label  "alquil fenol etoxilado" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/72>
+        a           owl:Class ;
+        rdfs:label  "fungicida tratamiento de semillas" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/44>
+        a           owl:Class ;
+        rdfs:label  "folcisteina" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/16>
+        a           owl:Class ;
+        rdfs:label  "amonio cuaternario" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/85>
+        a           owl:Class ;
+        rdfs:label  "tratamiento de suelos" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/57>
+        a           owl:Class ;
+        rdfs:label  "sales cca" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/29>
+        a           owl:Class ;
+        rdfs:label  "alcohol alcoxilado" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/10>
+        a           owl:Class ;
+        rdfs:label  "oxicloruro de cobre" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/51>
+        a           owl:Class ;
+        rdfs:label  "oleato de potasio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/23>
+        a           owl:Class ;
+        rdfs:label  "cianamida hidrogenada" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/64>
+        a           owl:Class ;
+        rdfs:label  "antidoto de herbicida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/36>
+        a           owl:Class ;
+        rdfs:label  "carbonato basico de cu" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/4>
+        a                           owl:Class ;
+        rdfs:label                  "Lactofen" ;
+        oboInOwl:hasRelatedSynonym  "ethyl O-[5-(2-chloro-α,α,α-trifluoro-p-tolyloxy)-2-nitrobenzoyl]-DL-lactate" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/77>
+        a           owl:Class ;
+        rdfs:label  "hormiguicida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/49>
+        a           owl:Class ;
+        rdfs:label  "nonil fenol etoxilado" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/30>
+        a           owl:Class ;
+        rdfs:label  "alcohol etoxilado" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/71>
+        a           owl:Class ;
+        rdfs:label  "desinfección de suelo" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/43>
+        a           owl:Class ;
+        rdfs:label  "florpyrauxifen etil" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/15>
+        a           owl:Class ;
+        rdfs:label  "bacillus subtilis" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/84>
+        a           owl:Class ;
+        rdfs:label  "tratamiento de semillas" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/56>
+        a           owl:Class ;
+        rdfs:label  "polyphase" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/28>
+        a           owl:Class ;
+        rdfs:label  "acido graso metacloro" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/69>
+        a           owl:Class ;
+        rdfs:label  "desbrotador" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/9>
+        a           owl:Class ;
+        rdfs:label  "aceite mineral blanco" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/50>
+        a           owl:Class ;
+        rdfs:label  "octifenol y polietilenglicol" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/22>
+        a           owl:Class ;
+        rdfs:label  "alfa naftalen acetato de sodio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/63>
+        a           owl:Class ;
+        rdfs:label  "antibiótico" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/35>
+        a           owl:Class ;
+        rdfs:label  "bistrifluron" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/3>
+        a                           owl:Class ;
+        rdfs:label                  "cihalofop-butilo" ;
+        oboInOwl:hasRelatedSynonym  "ácido (R)-2-[4-(4-ciano-2-fluorofenoxi)fenoxi]propiónico" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/76>
+        a           owl:Class ;
+        rdfs:label  "herbicida pre-emergente" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/48>
+        a           owl:Class ;
+        rdfs:label  "lignosulfonato de calcio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/70>
+        a           owl:Class ;
+        rdfs:label  "desecante" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/42>
+        a           owl:Class ;
+        rdfs:label  "ester poliglicol de acidos grasos" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/14>
+        a           owl:Class ;
+        rdfs:label  "sulfato tetracupico tricalcico" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/83>
+        a           owl:Class ;
+        rdfs:label  "repelente" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/55>
+        a           owl:Class ;
+        rdfs:label  "polisulfuro de calcio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/27>
+        a           owl:Class ;
+        rdfs:label  "aceite escencial de ajo" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/68>
+        a           owl:Class ;
+        rdfs:label  "biológico" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/8>
+        a                           owl:Class ;
+        rdfs:label                  "trifloxysulfuron sodio" ;
+        oboInOwl:hasRelatedSynonym  "N’-(4,6-dimetoxipirimidin-2-il)-N-[3-(2,2,2-trifluoroetoxi)-2-piridilsulfonil]imidocarbamato" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/21>
+        a           owl:Class ;
+        rdfs:label  "sulfato neutro de oxiquinol" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/62>
+        a           owl:Class ;
+        rdfs:label  "alguicida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/34>
+        a           owl:Class ;
+        rdfs:label  "beauveria bassiana" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/2>
+        a                           owl:Class ;
+        rdfs:label                  "fenoxaprop-p-ethyl" ;
+        oboInOwl:hasRelatedSynonym  "ácido fenoxiacético clorado" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/75>
+        a           owl:Class ;
+        rdfs:label  "herbicida para barbecho químico y entre surco" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/47>
+        a           owl:Class ;
+        rdfs:label  "lecitina de soja" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/19>
+        a           owl:Class ;
+        rdfs:label  "nafteno de zinc" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/88>
+        a           owl:Class ;
+        rdfs:label  "mezcla de esteres de acidos grasos de aceites vegetales" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/41>
+        a           owl:Class ;
+        rdfs:label  "ester metilico de aceites vegetales" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/13>
+        a           owl:Class ;
+        rdfs:label  "bromopropilato" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/82>
+        a           owl:Class ;
+        rdfs:label  "presiembra" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/54>
+        a           owl:Class ;
+        rdfs:label  "hidroxicloruro de trimetilamina" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/26>
+        a           owl:Class ;
+        rdfs:label  "aceite de soja" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/67>
+        a           owl:Class ;
+        rdfs:label  "bactericida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/39>
+        a           owl:Class ;
+        rdfs:label  "dodecenilacetato" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/7>
+        a           owl:Class ;
+        rdfs:label  "thiazopyr" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/20>
+        a           owl:Class ;
+        rdfs:label  "oxasulfuron" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/61>
+        a           owl:Class ;
+        rdfs:label  "virus de la granulosis de cydia" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/33>
+        a           owl:Class ;
+        rdfs:label  "aminoetoxivinilglicina" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/1>
+        a                           owl:Class ;
+        rdfs:label                  "acifluorfen-sodico" ;
+        oboInOwl:hasRelatedSynonym  "5-[2-cloro-4-(trifluorometil) fenoxi]-2-nitrobenzoato) de sodio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/74>
+        a           owl:Class ;
+        rdfs:label  "herbicida desecante" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/46>
+        a           owl:Class ;
+        rdfs:label  "heptametiltrisiloxano" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/18>
+        a           owl:Class ;
+        rdfs:label  "metam potasio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/87>
+        a           owl:Class ;
+        rdfs:label  "mezcla de esteres de alquil fenol y polietilenglicol" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/59>
+        a           owl:Class ;
+        rdfs:label  "tribromo fenato de sodio" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/40>
+        a           owl:Class ;
+        rdfs:label  "dodecil benceno sulf trietanolamida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/12>
+        a           owl:Class ;
+        rdfs:label  "bacillus thuringiensis" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/81>
+        a           owl:Class ;
+        rdfs:label  "preservador de madera" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/53>
+        a           owl:Class ;
+        rdfs:label  "polioxi ester amino graso" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/25>
+        a           owl:Class ;
+        rdfs:label  "aceite de creosota" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/66>
+        a           owl:Class ;
+        rdfs:label  "tucuricida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/38>
+        a           owl:Class ;
+        rdfs:label  "dodecadienol" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/6>
+        a                           owl:Class ;
+        rdfs:label                  "pyroxsulam" ;
+        oboInOwl:hasRelatedSynonym  "N-(5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)-3-pyridinesulfonamide" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/79>
+        a           owl:Class ;
+        rdfs:label  "molusquicida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/60>
+        a           owl:Class ;
+        rdfs:label  "trichoderma" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/32>
+        a           owl:Class ;
+        rdfs:label  "amina grasa etoxilada" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/0>
+        a                           owl:Class ;
+        rdfs:label                  "MSMA" ;
+        oboInOwl:hasRelatedSynonym  "monosodium methyl arsenate" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/73>
+        a           owl:Class ;
+        rdfs:label  "gorgojicida" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/45>
+        a           owl:Class ;
+        rdfs:label  "glandlure" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/17>
+        a           owl:Class ;
+        rdfs:label  "extracto de ajo" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/86>
+        a           owl:Class ;
+        rdfs:label  "mezcla de esteres y jabones provenientes de ácidos grasos de aceites vegetales trans-esterificados con glicerina.contiene sucroglicéridos" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/58>
+        a           owl:Class ;
+        rdfs:label  "serricornin" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/11>
+        a           owl:Class ;
+        rdfs:label  "giberelinas a4 a7" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/80>
+        a           owl:Class ;
+        rdfs:label  "postsiembra" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/52>
+        a           owl:Class ;
+        rdfs:label  "oxido de cocoamida propil" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/24>
+        a           owl:Class ;
+        rdfs:label  "halosulfuron" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/65>
+        a           owl:Class ;
+        rdfs:label  "antiescaldante" .
+
+<http://purl.obolibrary.org/obo/www.lifia.info.unlp.edu.ar/data/lmro/37>
+        a           owl:Class ;
+        rdfs:label  "dialurin ester + poliet. glicol ester" .

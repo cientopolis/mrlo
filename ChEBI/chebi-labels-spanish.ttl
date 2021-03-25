@@ -1,0 +1,443 @@
+@prefix :      <http://purl.obolibrary.org/obo/chebi.owl#> .
+@prefix chebi: <http://purl.obolibrary.org/obo/chebi/> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix chebi1: <http://purl.obolibrary.org/obo/chebi#2> .
+@prefix chebi2: <http://purl.obolibrary.org/obo/chebi#> .
+@prefix chebi3: <http://purl.obolibrary.org/obo/chebi#3> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix chebi4: <http://purl.obolibrary.org/obo/chebi#1> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+obo:CHEBI_6803  skos:prefLabel  "metabenztiazuron" .
+
+obo:CHEBI_81770  skos:prefLabel  "ipoconazole" .
+
+obo:CHEBI_39285  skos:prefLabel  "cloropicrina" .
+
+obo:CHEBI_4312  skos:prefLabel  "daminozine" .
+
+obo:CHEBI_8434  skos:prefLabel  "procloraz" .
+
+obo:CHEBI_8939  skos:prefLabel  "flumioxazim" .
+
+obo:CHEBI_81828  skos:prefLabel  "piraflufen etil" .
+
+obo:CHEBI_40909  skos:prefLabel  "azoxistrobina" .
+
+obo:CHEBI_132300  skos:prefLabel  "cyantraniliprole" .
+
+obo:CHEBI_81807  skos:prefLabel  "quizalofop - etil" .
+
+obo:CHEBI_27744  skos:prefLabel  "glifosato" .
+
+obo:CHEBI_17192  skos:prefLabel  "bromoxinil" .
+
+obo:CHEBI_81757  skos:prefLabel  "bispiribac sodico" .
+
+obo:CHEBI_60607  skos:prefLabel  "metalaxil – m -isomero" .
+
+obo:CHEBI_3390  skos:prefLabel  "carbaril" .
+
+obo:CHEBI_81928  skos:prefLabel  "ioxinil octanoato" .
+
+obo:CHEBI_38663  skos:prefLabel  "etion" .
+
+obo:CHEBI_81907  skos:prefLabel  "hidroxido de cobre" .
+
+obo:CHEBI_132897  skos:prefLabel  "benazolin etil" .
+
+obo:CHEBI_22153  skos:prefLabel  "acaricida" .
+
+obo:CHEBI_5008  skos:prefLabel  "fenoxaprop etil" .
+
+obo:CHEBI_81815  skos:prefLabel  "sethoxidim" .
+
+obo:CHEBI_5705  skos:prefLabel  "hexazinona" .
+
+obo:CHEBI_24026  skos:prefLabel  "alcoholes grasos" .
+
+obo:CHEBI_38692  skos:prefLabel  "fostiazate" .
+
+obo:CHEBI_6790  skos:prefLabel  "metalaxil" .
+
+obo:CHEBI_38508  skos:prefLabel  "metiocarb" .
+
+obo:CHEBI_132592  skos:prefLabel  "metilciclopropeno" .
+
+obo:CHEBI_33118  skos:prefLabel  "acido borico" .
+
+obo:CHEBI_8450  skos:prefLabel  "procimidone" .
+
+obo:CHEBI_34908  skos:prefLabel  "p.c.n.b." .
+
+obo:CHEBI_40036  skos:prefLabel  "aminotriazol" .
+
+obo:CHEBI_3093  skos:prefLabel  "bifentrin" .
+
+obo:CHEBI_39317  skos:prefLabel  "fitorregulador" .
+
+obo:CHEBI_34837  skos:prefLabel  "metidation" .
+
+obo:CHEBI_140499  skos:prefLabel  "caolinita" .
+
+obo:CHEBI_81944  skos:prefLabel  "quizalofop- p- tefuril" .
+
+obo:CHEBI_9430  skos:prefLabel  "teflutrina" .
+
+obo:CHEBI_81731  skos:prefLabel  "tolcloros metil" .
+
+obo:CHEBI_24852  skos:prefLabel  "insecticida" .
+
+obo:CHEBI_3009  skos:prefLabel  "benalaxil" .
+
+obo:CHEBI_132921  skos:prefLabel  "clodinafop propargil" .
+
+obo:CHEBI_39175  skos:prefLabel  "tiacloprid" .
+
+obo:CHEBI_39346  skos:prefLabel  "esfenvalerato" .
+
+obo:CHEBI_39325  skos:prefLabel  "lambdacialotrina" .
+
+obo:CHEBI_6835  skos:prefLabel  "metomil" .
+
+obo:CHEBI_145500  skos:prefLabel  "thiencarbazone metil" .
+
+obo:CHEBI_81781  skos:prefLabel  "tebuconazole" .
+
+obo:CHEBI_26078  skos:prefLabel  "acido fosforico" , "acido ortofosforico" .
+
+obo:CHEBI_81952  skos:prefLabel  "bupirimato" .
+
+obo:CHEBI_34632  skos:prefLabel  "clorpirifos metil" .
+
+obo:CHEBI_39275  skos:prefLabel  "bromuro de metilo" .
+
+obo:CHEBI_81931  skos:prefLabel  "metaldehido" .
+
+obo:CHEBI_39233  skos:prefLabel  "benzoato de emamectina" .
+
+obo:CHEBI_82661  skos:prefLabel  "tierra de diatomeas" .
+
+obo:CHEBI_5011  skos:prefLabel  "fenpiroximato" .
+
+obo:CHEBI_26833  skos:prefLabel  "azufre" .
+
+obo:CHEBI_6651  skos:prefLabel  "malation" .
+
+obo:CHEBI_82022  skos:prefLabel  "imazetapir" .
+
+obo:CHEBI_81789  skos:prefLabel  "dimetenamida" .
+
+obo:CHEBI_31440  skos:prefLabel  "sulfato cuprico pentahidratado" .
+
+obo:CHEBI_39091  skos:prefLabel  "acrinatrina" .
+
+obo:CHEBI_81918  skos:prefLabel  "trifenil acetato de estaño" .
+
+obo:CHEBI_67113  skos:prefLabel  "clorantraniliprole" .
+
+obo:CHEBI_50099  skos:prefLabel  "m.c.p.a" .
+
+obo:CHEBI_34761  skos:prefLabel  "fention" .
+
+obo:CHEBI_34911  skos:prefLabel  "permetrina" .
+
+obo:CHEBI_35027  skos:prefLabel  "trifluralina" .
+
+obo:CHEBI_62946  skos:prefLabel  "sulfato de amonio" .
+
+obo:CHEBI_88956  skos:prefLabel  "piroxasulfone" .
+
+obo:CHEBI_8674  skos:prefLabel  "pyrimetanil" .
+
+obo:CHEBI_81776  skos:prefLabel  "penoxsulam" , "penoxulam" .
+
+obo:CHEBI_47319  skos:prefLabel  "clorimuron  etil" .
+
+obo:CHEBI_75375  skos:prefLabel  "2,4 dp" .
+
+obo:CHEBI_4510  skos:prefLabel  "diclofo metil" , "diclofop metil" .
+
+obo:CHEBI_31953  skos:prefLabel  "oxitetraciclina clorhidrato" .
+
+obo:CHEBI_81734  skos:prefLabel  "fenmedifan" .
+
+obo:CHEBI_17148  skos:prefLabel  "1,4 diaminobutano" .
+
+obo:CHEBI_30263  skos:prefLabel  "terbutilazina" .
+
+obo:CHEBI_15930  skos:prefLabel  "atrazina" .
+
+obo:CHEBI_30768  skos:prefLabel  "acido propionico" .
+
+obo:CHEBI_39370  skos:prefLabel  "clorfluazuron" .
+
+obo:CHEBI_35014  skos:prefLabel  "metil tiofanato" .
+
+obo:CHEBI_144786  skos:prefLabel  "profoxidim" .
+
+obo:CHEBI_4034  skos:prefLabel  "cyflutrina" .
+
+obo:CHEBI_38548  skos:prefLabel  "tiodicarb" .
+
+obo:CHEBI_64163  skos:prefLabel  "diquat dibromuro" .
+
+obo:CHEBI_82017  skos:prefLabel  "fluroxipir" .
+
+obo:CHEBI_81863  skos:prefLabel  "cialofop butil" .
+
+obo:CHEBI_81842  skos:prefLabel  "ditianon" .
+
+obo:CHEBI_34714  skos:prefLabel  "dimetoato" .
+
+obo:CHEBI_5014  skos:prefLabel  "fenvalerato" .
+
+obo:CHEBI_4042  skos:prefLabel  "cipermetrina" .
+
+obo:CHEBI_44156  skos:prefLabel  "terbutrina" .
+
+obo:CHEBI_82025  skos:prefLabel  "napropamida" .
+
+obo:CHEBI_22472  skos:prefLabel  "ametrina" .
+
+obo:CHEBI_50344  skos:prefLabel  "avermectina" .
+
+obo:CHEBI_81771  skos:prefLabel  "hidrazida maleica" .
+
+obo:CHEBI_81750  skos:prefLabel  "halosulfuron metil" .
+
+obo:CHEBI_34935  skos:prefLabel  "propizamida" .
+
+obo:CHEBI_83218  skos:prefLabel  "dimoxistrobin" .
+
+obo:CHEBI_82033  skos:prefLabel  "propamocarb clorhidrato" .
+
+obo:CHEBI_39678  skos:prefLabel  "metsulfuron metil" .
+
+obo:CHEBI_34630  skos:prefLabel  "clorprofam" .
+
+obo:CHEBI_3015  skos:prefLabel  "benomil" .
+
+obo:CHEBI_81737  skos:prefLabel  "metam sodio" .
+
+obo:CHEBI_81908  skos:prefLabel  "oxido cuproso" .
+
+obo:CHEBI_26013  skos:prefLabel  "feromona" .
+
+obo:CHEBI_83610  skos:prefLabel  "valiphenal" .
+
+obo:CHEBI_34922  skos:prefLabel  "picloran" .
+
+obo:CHEBI_39331  skos:prefLabel  "alfacipermetrina" .
+
+obo:CHEBI_26276  skos:prefLabel  "prometrina" .
+
+obo:CHEBI_81745  skos:prefLabel  "tebutiuron" .
+
+obo:CHEBI_38843  skos:prefLabel  "pirimifos metil" .
+
+obo:CHEBI_24127  skos:prefLabel  "fungicida" .
+
+obo:CHEBI_26605  skos:prefLabel  "saponinas" .
+
+obo:CHEBI_81419  skos:prefLabel  "kasugamicina" .
+
+obo:CHEBI_81945  skos:prefLabel  "sulfluramida" .
+
+obo:CHEBI_28854  skos:prefLabel  "2,4-d" .
+
+obo:CHEBI_38680  skos:prefLabel  "fenamifos" .
+
+obo:CHEBI_132964  skos:prefLabel  "fluazifop- p- butil" .
+
+obo:CHEBI_28833  skos:prefLabel  "giberelina a3" .
+
+obo:CHEBI_83092  skos:prefLabel  "benzovindiflupir" .
+
+obo:CHEBI_48765  skos:prefLabel  "acido cacodilico" .
+
+obo:CHEBI_70721  skos:prefLabel  "cletodim" .
+
+obo:CHEBI_34917  skos:prefLabel  "fentoato" .
+
+obo:CHEBI_37837  skos:prefLabel  "acido beta naftoxiacetico" .
+
+obo:CHEBI_4608  skos:prefLabel  "dimetil disulfuro" .
+
+obo:CHEBI_39347  skos:prefLabel  "clorfenapir" .
+
+obo:CHEBI_39326  skos:prefLabel  "hexitiazox" .
+
+obo:CHEBI_25491  skos:prefLabel  "nematicida" .
+
+obo:CHEBI_24527  skos:prefLabel  "herbicida" .
+
+obo:CHEBI_147366  skos:prefLabel  "imazapic " .
+
+obo:CHEBI_3018  skos:prefLabel  "bentazon" .
+
+obo:CHEBI_84940  skos:prefLabel  "oleato de etilo" .
+
+obo:CHEBI_52136  skos:prefLabel  "glufosinato de amonio" .
+
+obo:CHEBI_34520  skos:prefLabel  "acefato" .
+
+obo:CHEBI_39334  skos:prefLabel  "zetametrina" .
+
+obo:CHEBI_16261  skos:prefLabel  "quitosano" .
+
+obo:CHEBI_52741  skos:prefLabel  "etefon" .
+
+obo:CHEBI_6902  skos:prefLabel  "metolacloro" .
+
+obo:CHEBI_8070  skos:prefLabel  "ortofenilfenato de sodio" .
+
+obo:CHEBI_81848  skos:prefLabel  "dimetomorf" .
+
+obo:CHEBI_15368  skos:prefLabel  "acroleina" .
+
+obo:CHEBI_62947  skos:prefLabel  "acetato de amonio" .
+
+obo:CHEBI_3652  skos:prefLabel  "clorsulfuron" .
+
+obo:CHEBI_136271  skos:prefLabel  "biciclopirona" .
+
+obo:CHEBI_5312  skos:prefLabel  "sulfato de gentamicina" .
+
+obo:CHEBI_47696  skos:prefLabel  "tribromo fenol" .
+
+obo:CHEBI_81777  skos:prefLabel  "pentiopirad" .
+
+obo:CHEBI_81927  skos:prefLabel  "imazalil" .
+
+obo:CHEBI_27701  skos:prefLabel  "oxitetraciclina" .
+
+obo:CHEBI_38491  skos:prefLabel  "formetanato" .
+
+obo:CHEBI_83629  skos:prefLabel  "aceite de arbol del tea" .
+
+obo:CHEBI_32158  skos:prefLabel  "sulfato de estreptomicina" .
+
+obo:CHEBI_38449  skos:prefLabel  "metoxifenocide" .
+
+obo:CHEBI_80742  skos:prefLabel  "cumetetralil" .
+
+obo:CHEBI_30769  skos:prefLabel  "acido citrico" .
+
+obo:CHEBI_49477  skos:prefLabel  "acido arsanilico" .
+
+obo:CHEBI_18918  skos:prefLabel  "1,3-dicloropropeno" .
+
+obo:CHEBI_8925  skos:prefLabel  "rianodina" .
+
+obo:CHEBI_3639  skos:prefLabel  "clorotalonil" .
+
+obo:CHEBI_81977  skos:prefLabel  "tiadiazuron" .
+
+obo:CHEBI_3760  skos:prefLabel  "cloransulam metil" .
+
+obo:CHEBI_84033  skos:prefLabel  "fosetil aluminio" .
+
+obo:CHEBI_34757  skos:prefLabel  "fenitrotion" .
+
+obo:CHEBI_4640  skos:prefLabel  "difenilamina" .
+
+obo:CHEBI_2533  skos:prefLabel  "alaclor" .
+
+obo:CHEBI_35883  skos:prefLabel  "fosfina" .
+
+obo:CHEBI_81772  skos:prefLabel  "mepiquat cloruro" , "cloromecuato" .
+
+obo:CHEBI_83453  skos:prefLabel  "tifensulfuron metil" .
+
+obo:CHEBI_33288  skos:prefLabel  "rodenticida" .
+
+obo:CHEBI_136729  skos:prefLabel  "haloxyfop-p- metil  ester" , "haloxyfop-p- metil ester" .
+
+obo:CHEBI_81893  skos:prefLabel  "difetialone" .
+
+obo:CHEBI_27496  skos:prefLabel  "simazina" .
+
+obo:CHEBI_73172  skos:prefLabel  "acifluorfen sodico" .
+
+obo:CHEBI_34631  skos:prefLabel  "clorpirifos" .
+
+obo:CHEBI_38473  skos:prefLabel  "azadiractina" .
+
+obo:CHEBI_29022  skos:prefLabel  "6 bencil adenina" .
+
+obo:CHEBI_38786  skos:prefLabel  "fosmet" .
+
+obo:CHEBI_81859  skos:prefLabel  "dalapon" .
+
+obo:CHEBI_39353  skos:prefLabel  "fenpropatrina" .
+
+obo:CHEBI_81838  skos:prefLabel  "cloridazon" .
+
+obo:CHEBI_39332  skos:prefLabel  "betacipermetrina" .
+
+obo:CHEBI_81817  skos:prefLabel  "trinexapac etil" .
+
+obo:CHEBI_82021  skos:prefLabel  "imazapir" .
+
+obo:CHEBI_60809  skos:prefLabel  "coadyuvante" .
+
+obo:CHEBI_5131  skos:prefLabel  "fluorocloridona" .
+
+obo:CHEBI_23582  skos:prefLabel  "defoliante" .
+
+obo:CHEBI_2962  skos:prefLabel  "kresoxim metil" .
+
+obo:CHEBI_33070  skos:prefLabel  "acido indol 3 butírico" .
+
+obo:CHEBI_83569  skos:prefLabel  "pendimetalin" .
+
+obo:CHEBI_81846  skos:prefLabel  "amisulbron" .
+
+obo:CHEBI_27407  skos:prefLabel  "kinetina" .
+
+obo:CHEBI_9495  skos:prefLabel  "tiram" .
+
+obo:CHEBI_82029  skos:prefLabel  "oxifluorfen" .
+
+obo:CHEBI_3416  skos:prefLabel  "carfentrazone etil" .
+
+obo:CHEBI_39098  skos:prefLabel  "piretrinas" .
+
+obo:CHEBI_75182  skos:prefLabel  "tolyfluanid" .
+
+obo:CHEBI_2394  skos:prefLabel  "acetoclor" .
+
+obo:CHEBI_81833  skos:prefLabel  "trifloxistrobin" .
+
+obo:CHEBI_4388  skos:prefLabel  "deltametrina" .
+
+obo:CHEBI_23414  skos:prefLabel  "sulfato tribásico de cobre" .
+
+obo:CHEBI_45979  skos:prefLabel  "tiabendazol" .
+
+obo:CHEBI_38881  skos:prefLabel  "piridafention" .
+
+obo:CHEBI_81741  skos:prefLabel  "iodosulfuron metil sodio" .
+
+obo:CHEBI_81912  skos:prefLabel  "dimetiphin" .
+
+obo:CHEBI_38626  skos:prefLabel  "pyrldaben" .
+
+obo:CHEBI_34905  skos:prefLabel  "paraquat" .
+
+obo:CHEBI_62961  skos:prefLabel  "clopiralid" .
+
+obo:CHEBI_39185  skos:prefLabel  "tiametoxam" .
+
+obo:CHEBI_83372  skos:prefLabel  "meptyl dinocap" .
+
+obo:CHEBI_9682  skos:prefLabel  "triclopyr" .
+
+obo:CHEBI_39314  skos:prefLabel  "betaciflutrin" .
+
+obo:CHEBI_60833  skos:prefLabel  "naptalan" .
